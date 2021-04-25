@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84182796821ef074c97ab848415bdbc8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - puzzleUI: {instanceID: 0}
+  - door: {instanceID: 0}
+  - doorOpen: {fileID: 8300000, guid: a9f8a10483e40c64b8e0d8e0f2a6af52, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
